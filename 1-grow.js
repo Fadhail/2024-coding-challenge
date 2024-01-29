@@ -1,3 +1,6 @@
+//Day 1/366 Coding Challenge
+//Reduce but grow - https://www.codewars.com/kata/5513795bd3fafb56c200049e
+
 // Cara 1
 function grow(x) {
   let result = x[0];
